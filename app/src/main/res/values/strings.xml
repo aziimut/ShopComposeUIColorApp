@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shop Compose UI App</string>
+    <string name="Hand_bag">Hand bag</string>
+    <string name="Jewellery">Jewellery</string>
+    <string name="Footwear">Footwear</string>
+    <string name="Dresses">Dresses</string>
+    <string name="DetailsScreen">DetailsScreen</string>
+
+    <string name="dummyText">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the  standard dummy text ever since. When an unknown printer took a galley.</string>
+    <string name="title_activity_details_screen">DetailsScreen</string>
+</resources>
